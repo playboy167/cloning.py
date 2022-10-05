@@ -84,7 +84,7 @@ def clear():
 def back():
 	login()
 
-PLAY BOY="PLAY BOY-"
+AKASH="PLAY BOY-"
 imt="-Busra4786=="
 ak="Lover-"
 myid=uuid.uuid4().hex[:10].upper()
